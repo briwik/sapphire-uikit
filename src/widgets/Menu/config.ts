@@ -142,7 +142,7 @@ export const userMenulinks: DropdownMenuItems[] = [
   },
   {
     type: DropdownMenuItemType.EXTERNAL_LINK,
-    href: "https://candyswap.one",
+    href: "https://sapphireswap.finance/",
     label: "Link",
   },
   {

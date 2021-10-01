@@ -79,12 +79,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/@CandySwap_BSC",
+    href: "#",
   },
   {
     label: "Telegram",
     icon: "Telegram",
-    href: "https://t.me/CandySwapBSC"
+    href: "#"
     // items: [
     //   {
     //     label: "English",
