@@ -79,12 +79,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "#",
+    href: "https://twitter.com/SapphireSwap",
   },
   {
     label: "Telegram",
     icon: "Telegram",
-    href: "#"
+    href: "https://t.me/SapphireSwap"
     // items: [
     //   {
     //     label: "English",
@@ -140,21 +140,21 @@ export const socials = [
     //   },
     // ],
   },
-  {
-    label: "Reddit",
-    icon: "Reddit",
-    href: "",
-  },
-  {
-    label: "Instagram",
-    icon: "Instagram",
-    href: "",
-  },
-  {
-    label: "Github",
-    icon: "Github",
-    href: "https://github.com/candies-swap/",
-  },
+  // {
+  //   label: "Reddit",
+  //   icon: "Reddit",
+  //   href: "",
+  // },
+  // {
+  //   label: "Instagram",
+  //   icon: "Instagram",
+  //   href: "",
+  // },
+  // {
+  //   label: "Github",
+  //   icon: "Github",
+  //   href: "https://github.com/candies-swap/",
+  // },
 ];
 
 export const langs: Language[] = [...Array(20)].map((_, i) => ({
